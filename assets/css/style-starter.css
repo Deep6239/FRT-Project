@@ -11137,3 +11137,8 @@ button.owl-next {
     position: absolute;
     bottom: 38%; } }
 
+
+.bot{
+  border: black solid 2px;
+  border-radius: 6px;
+}
